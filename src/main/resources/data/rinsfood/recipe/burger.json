@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#K",
+    "C#"
+  ],
+  "key": {
+    "#": "minecraft:bread",
+    "K": "minecraft:kelp",
+    "C": "minecraft:cooked_beef"
+  },
+  "result": {
+    "id": "rinsfood:burger",
+    "count": 1
+  }
+}

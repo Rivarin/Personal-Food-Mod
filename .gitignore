@@ -1,0 +1,23 @@
+# Gradle build directories and caches
+.gradle/
+build/
+out/
+
+# IDE specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+.vs/
+.idea/
+*.iml
+.vscode/
+
+# Fabric Loom run directories
+run/
+
+# IDE specific files

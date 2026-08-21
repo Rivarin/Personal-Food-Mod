@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:bowl",
+    "minecraft:kelp",
+    "minecraft:kelp",
+    "minecraft:cooked_porkchop"
+  ],
+  "result": {
+    "id": "rinsfood:sinigang",
+    "count": 1
+  }
+}
